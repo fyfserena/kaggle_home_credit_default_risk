@@ -12,3 +12,5 @@ Quote from a algorithm engineer from Tencent Music who interviewed me (I did not
 Yeah, domain knowledge counts a lot. When I was a quant research intern in Guolian Security, I tried hard to learnt as much as possible about the stock market to include more important features in my model (by asking my tutors and reading articles). Coding just a skill, but the curiosity to know about your product is the key (indeed, sometimes I think it is waste of time because I feel like it is not my job! I am a coder! What I want to learn is how to build a better model and write efficient code! But, no! What is a better model? Quote from Andrew Ng, "applied machine learning is feature engineering" ).
 
 Yeah, that is pretty much it. You can view the codes and outcome analysis in those .ipynb files (i use jupyter notebook).
+
+sry guys, dataset too large, pls download from https://www.kaggle.com/c/home-credit-default-risk%22.
