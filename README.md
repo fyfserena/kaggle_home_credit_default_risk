@@ -13,4 +13,4 @@ Yeah, domain knowledge counts a lot. When I was a quant research intern in Guoli
 
 Yeah, that is pretty much it. You can view the codes and outcome analysis in those .ipynb files (i use jupyter notebook).
 
-sry guys, dataset too large, pls download from https://www.kaggle.com/c/home-credit-default-risk%22.
+sry guys, dataset too large, pls download from https://www.kaggle.com/c/home-credit-default-risk .
